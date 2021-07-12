@@ -1,0 +1,8 @@
+com\everis\productservice\service\IProductService.class
+com\everis\productservice\service\IMaintenanceService.class
+com\everis\productservice\service\ProductServiceImpl.class
+com\everis\productservice\controller\ProductController.class
+com\everis\productservice\repository\IProductRepository.class
+com\everis\productservice\ProductserviceApplication.class
+com\everis\productservice\entity\Product.class
+com\everis\productservice\exception\EntityNotFoundException.class
