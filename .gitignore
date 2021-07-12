@@ -23,9 +23,8 @@
 hs_err_pid*
 
 HELP.md
-/target/
-*/target/**
-**/META-INF/
+target/
+target/classes/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
